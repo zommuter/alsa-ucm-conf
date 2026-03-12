@@ -13,6 +13,6 @@
 
 ## Pending
 - [ ] Test 3.5mm headphone jack behavior with the fix (need cable)
-- [ ] Test Bluetooth headset default routing still works after fix
+- [x] Test Bluetooth headset default routing still works after fix
 - [ ] Await upstream review/feedback on PR #721
 - [ ] Remove WirePlumber workaround (51-force-speaker.conf) once fix is merged upstream and packaged
